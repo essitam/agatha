@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Agatha Productions</title>
+		<link rel="icon" type="image/x-icon" href="assets/favicon/logo/favicon.ico">
+		<script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+		<style media="screen">
+
+
+		@font-face {
+		    font-family: "STIXGeneral";
+		    src: url("assets/fonts/STIXGeneralBolIta.otf");
+				font-weight: bold;
+		    font-style: italic, oblique;
+		}
+		@font-face {
+		    font-family: "STIXGeneral";
+		    src: url("assets/fonts/STIXGeneralItalic.otf");
+		    font-style: italic, oblique;
+		}
+		@font-face {
+				font-family: "STIXGeneral";
+				src: url("assets/fonts/STIXGeneralBol.otf");
+				font-weight: bold;
+		}
+		@font-face {
+			font-family: "STIXGeneral";
+			src: url("assets/fonts/STIXGeneral.otf");
+		}
+
+
+		@font-face {
+		    font-family: "HalyardDisplay";
+		    src: url("assets/fonts/HalyardDisplayMed.otf");
+		    font-weight: bold;
+		}
+		@font-face {
+			font-family: "HalyardDisplay";
+			src: url("assets/fonts/HalyardDisplayReg.otf");
+		}
+		html{
+			/* background: #0000ff; */
+			/* color: #ff3333; */
+			/* cursor: url("assets/favicon/logo/favicon.ico"), auto; */
+		}
+		.halyard{
+			font-family: HalyardDisplay;
+		}
+		.stix{
+			font-family: STIXGeneral;
+		}
+		#agg{
+			text-align: center;
+			width: 100vw;
+			position: absolute;
+
+		}
+		#ag{
+			font-size: 50px;
+			/* margin-left: 40%; */
+			margin-top: 10%;
+			/* float: right; */
+			/* background-image: url('Agatha-Final_Folder/Agatha-Symbol.png'); */
+			background-size: contain;
+			background-repeat: no-repeat;
+			text-align: center;
+
+
+		}
+		#agcanvas{
+			position: absolute;
+			top: 0;
+		}
+		::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: red;
+}
+
+::selection {
+	color: white;
+  background: red;
+}
+
+		</style>
+	</head>
+	<body>
+		<!-- <img src="Agatha-Final_Folder/Agatha-Symbol.png" alt="" width="150px"> -->
+		<!-- <img src="Agatha-Final_Folder/Agatha-Logo.png" alt="" width="150px"> -->
+		<!-- <img src="Agatha-Final_Folder/Agatha-Symbol.Red.png" alt="" width="150px"> -->
+		<div id="agcanvas">
+
+		</div>
+<div id="agg">
+		<div class="halyard" id="ag">
+			<br>
+			<!-- <b>agatha productions</b> -->
+			<br>
+			<img src="Agatha-Final_Folder/Agatha-Symbol.png" alt="" width="150px">
+			<br>
+			website in post production
+		</div>
+		</div>
+		<script type="text/javascript">
+		var cur;
+		function setup(){
+			// cur = loadImage('assets/favicon/logo/favicon.ico');
+			var canvas = createCanvas(windowWidth, windowHeight);
+			canvas.parent('agcanvas');
+		}
+		function draw() {
+			fill('red');
+			// stroke('red');
+			ellipse(mouseX, mouseY, 20, 20);
+			// image(cur, mouseX, mouseY);
+		}
+		</script>
+	</body>
+</html>
