@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Basic",
+    "path": "/Basic",
+    "component": "/Users/matisse/Documents/GitHub/agatha/vue/pages/Basic.vue",
+    "chunkName": "pages/Basic"
+  },
+  {
+    "name": "logo_bounce",
+    "path": "/logo_bounce",
+    "component": "/Users/matisse/Documents/GitHub/agatha/vue/pages/logo_bounce.vue",
+    "chunkName": "pages/logo_bounce"
+  },
+  {
+    "name": "ScrollTrig",
+    "path": "/ScrollTrig",
+    "component": "/Users/matisse/Documents/GitHub/agatha/vue/pages/ScrollTrig.vue",
+    "chunkName": "pages/ScrollTrig"
+  },
+  {
+    "name": "ScrollTrigger",
+    "path": "/ScrollTrigger",
+    "component": "/Users/matisse/Documents/GitHub/agatha/vue/pages/ScrollTrigger.vue",
+    "chunkName": "pages/ScrollTrigger"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/matisse/Documents/GitHub/agatha/vue/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

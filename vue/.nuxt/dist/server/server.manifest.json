@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/agatha-fon.js": "components/agatha-fon.js",
+    "components/agatha-text.js": "components/agatha-text.js",
+    "components/contact.js": "components/contact.js",
+    "components/kinesis.js": "components/kinesis.js",
+    "components/kinesis2.js": "components/kinesis2.js",
+    "components/logo.js": "components/logo.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/projects.js": "components/projects.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/Basic.js": "pages/Basic.js",
+    "pages/ScrollTrig.js": "pages/ScrollTrig.js",
+    "pages/ScrollTrigger.js": "pages/ScrollTrigger.js",
+    "pages/index.js": "pages/index.js",
+    "pages/logo_bounce.js": "pages/logo_bounce.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/agatha-fon.js": "components/agatha-fon.js.map",
+    "components/agatha-text.js": "components/agatha-text.js.map",
+    "components/contact.js": "components/contact.js.map",
+    "components/kinesis.js": "components/kinesis.js.map",
+    "components/kinesis2.js": "components/kinesis2.js.map",
+    "components/logo.js": "components/logo.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/projects.js": "components/projects.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/Basic.js": "pages/Basic.js.map",
+    "pages/ScrollTrig.js": "pages/ScrollTrig.js.map",
+    "pages/ScrollTrigger.js": "pages/ScrollTrigger.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/logo_bounce.js": "pages/logo_bounce.js.map",
+    "server.js": "server.js.map"
+  }
+}
