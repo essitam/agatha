@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'HalyardDisplayMed';
+  src: url('~assets/Agatha-Final_Folder/Fonts/HalyardDisplayMed.otf') format(opentype);
+}
+
+html, body {
+  font-family: "HalyardDisplayMed";
+}

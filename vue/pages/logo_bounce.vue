@@ -1,5 +1,5 @@
 <template>
-  <AgathaText/>
+  <Kinesis/>
 </template>
 
 <script>
@@ -8,6 +8,6 @@ export default {}
 
 <style lang="css" scoped>
 html, body {
-
+  
 }
 </style>

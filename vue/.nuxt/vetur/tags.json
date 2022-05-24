@@ -1,0 +1,29 @@
+{
+  "AgathaFon": {
+    "description": "Auto imported from components/AgathaFon.vue"
+  },
+  "AgathaText": {
+    "description": "Auto imported from components/AgathaText.vue"
+  },
+  "Contact": {
+    "description": "Auto imported from components/Contact.vue"
+  },
+  "Kinesis": {
+    "description": "Auto imported from components/Kinesis.vue"
+  },
+  "Kinesis2": {
+    "description": "Auto imported from components/Kinesis2.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/Projects.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}

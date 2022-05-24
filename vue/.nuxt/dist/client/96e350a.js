@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{246:function(t,n,e){t.exports=e.p+"img/Agatha-Symbol.f5973e0.png"},249:function(t,n,e){"use strict";e.r(n);var c={},r=e(51),component=Object(r.a)(c,(function(){var t=this.$createElement;return(this._self._c||t)("img",{attrs:{src:e(246),width:"200px"}})}),[],!1,null,"47d06fc2",null);n.default=component.exports}}]);
